@@ -37,7 +37,7 @@ var bad_topics_regex = "trump|bush|yeb|jeb|rubio|cruz|sanders";
 
 // To disable, put two slashes in from of "var" on the next line (just like the beginning of this line!)
 
-var bad_usernames_regex = "BadMonk";
+var bad_usernames_regex = "BadMonk|nightdh";
 
 
 // Enter a list of forums that you don't like. Posts in these forums will disappear from pages like Active Topics. Separate with a pipe. 
